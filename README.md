@@ -1,4 +1,4 @@
-# basitlineerregresyon
+# BasitLineerRegresyon
 
 Küçük Kareler Yöntemi ile Basit Lineer Regresyon
 =============
