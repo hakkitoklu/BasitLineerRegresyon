@@ -26,4 +26,5 @@ yi=b + mxi  ifadesinde  “x” değeri, verisetimizde bulunan “SAT” değerl
 
 ***Tahminler ve hata payları çıktısı***
 
-![result](https://user-images.githubusercontent.com/32965019/69495164-f7b65a00-0ed4-11ea-8d15-f5484e29c0b4.PNG)
+![result](https://user-images.githubusercontent.com/32965019/69495368-61376800-0ed7-11ea-8572-2e2ec60182bf.PNG)
+
